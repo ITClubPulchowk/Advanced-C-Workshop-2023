@@ -42,6 +42,11 @@ key : value
 tick : tock
 ```
 
+<details>
+	<summary>Hint:</summary>
+	Use an open chained hashtable to store the multiple entries of the same key.
+</details>
+
 
 
 ## Assignment 2.3
