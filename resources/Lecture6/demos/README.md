@@ -1,5 +1,5 @@
 ## Multithreading-I
-### The sample codes for Lecture-5 of Advanced C Workshop
+### The sample codes for Lecture-6 of Advanced C Workshop
 Three scripts are provided to compile the programs.
 Currently supported compilers are MSVC and Clang for Windows and gcc and Clang for Linux.
 To compile all supported files in linux, run
